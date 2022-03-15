@@ -1,0 +1,25 @@
+{
+  "name": "LucentNote",
+  "version": "1.0.0",
+  "description": "Transparent notes app",
+  "main": "src\\index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://60u: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@github.com/SLHSCS/spring-hack-a-thon-2021-qyuo-jason-quack.git"
+  },
+  "keywords": [
+    "Notes"
+  ],
+  "author": "qyuo & jason-quack",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SLHSCS/spring-hack-a-thon-2021-qyuo-jason-quack/issues"
+  },
+  "homepage": "https://github.com/SLHSCS/spring-hack-a-thon-2021-qyuo-jason-quack#readme",
+  "dependencies": {
+    "electron": "^17.1.2"
+  }
+}
