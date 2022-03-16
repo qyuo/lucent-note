@@ -15,9 +15,8 @@ Project made by Luis (qyuo) and Jason (jason-quack)
 
 ## Usage
 
-> Window is by default transparent
->
->> Use the slider on the top to change the Opacity of the whole window!
+* Window is by default transparent
+* Use the slider on the top to change the Opacity of the whole window!
 
 
 ## Electron
