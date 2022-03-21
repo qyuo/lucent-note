@@ -4,6 +4,11 @@
 
 LucentNote is a application for students of all levels. Using our application, you'll be able to write down notes while having your pdf file, book, etc. in the background. Our app has very unique features: transparent background, click-through windows, and styling options!
 
+## Electron
+```
+npm install -save--dev electron
+```
+
 ## Commands
 |Command|Function|
 |-|:-:|
@@ -13,12 +18,6 @@ LucentNote is a application for students of all levels. Using our application, y
 
 * Window is by default transparent
 * Use the slider on the top to change the **opacity** of the whole window!
-
-
-## Electron
-```
-npm install -save--dev electron
-```
 
 ## Creators
 
