@@ -22,4 +22,4 @@ npm install -save--dev electron
 
 ## Creators
 
-Project made by (Luis)[https://github.com/qyuo] and (Jason)[https://github.com/jason-quack]
+Project made by [Luis](https://github.com/qyuo) and [Jason](https://github.com/jason-quack)
